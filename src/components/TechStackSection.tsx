@@ -158,7 +158,7 @@ export const TechStackSection = () => {
           className="mb-16"
         >
           <h3 className="text-3xl font-bold text-center mb-12">
-            My <span className="hero-gradient-text">Learning Journey</span>
+            My <span className="hero-gradient-text"> Journey</span>
           </h3>
           
           <div className="relative">

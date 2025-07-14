@@ -133,9 +133,9 @@ export const HeroSection = () => {
           className="flex items-center justify-center gap-6 mb-16"
         >
           {[
-            { icon: Github, href: 'https://github.com', label: 'GitHub' },
+            { icon: Github, href: 'https://github.com/malahimaamir', label: 'GitHub' },
             { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-            { icon: Mail, href: 'mailto:malahimaamir@gmail.com', label: 'Email' },
+            { icon: Mail, href: 'https://mail.google.com/mail/u/0/?ogbl#inbox', label: 'Email' },
           ].map((social, index) => (
             <motion.a
               key={social.label}

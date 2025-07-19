@@ -29,8 +29,6 @@ npm start
 ## Contributing
 Open to suggestions and pull requests for improvements.
 
-## License
-Specify your license here.
 
 ## Contact
 [malahimaamir on GitHub](https://github.com/malahimaamir)

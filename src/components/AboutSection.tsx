@@ -57,7 +57,7 @@ export const AboutSection = () => {
           >
             <div className="text-lg text-foreground/80 leading-relaxed space-y-4">
               <p>
-                I'm a <span className="text-accent font-semibold">Full Stack Developer</span> with 3+ years of experience 
+                I'm a <span className="text-accent font-semibold">Full Stack Developer</span> with 1.5 years of experience 
                 building everything from dynamic UIs in React to robust RESTful APIs with Node.js. 
                 I love turning ideas into real-world applications that solve problems.
               </p>

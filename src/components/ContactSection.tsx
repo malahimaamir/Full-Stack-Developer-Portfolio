@@ -195,7 +195,7 @@ const handleSubmit = async (e: React.FormEvent) => {
               <Button
                 size="lg"
                 className="w-full sm:w-auto accent-gradient hover-scale"
-                onClick={() => window.open('/resume.pdf', '_blank')}
+                onClick={() => window.open('/CV.pdf', '_blank')}
               >
                 <Download className="w-5 h-5 mr-2" />
                 Download Resume

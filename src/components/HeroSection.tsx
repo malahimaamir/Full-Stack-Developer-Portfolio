@@ -109,7 +109,7 @@ export const HeroSection = () => {
           <Button
             size="lg"
             className="accent-gradient hover-scale text-lg px-8 py-4 min-w-[200px]"
-            onClick={() => window.open('/resume.pdf', '_blank')}
+            onClick={() => window.open('/CV.pdf', '_blank')}
           >
             <Download className="w-5 h-5 mr-2" />
             Download Resume

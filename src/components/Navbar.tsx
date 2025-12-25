@@ -103,7 +103,7 @@ export const Navbar = () => {
             <Button
               size="sm"
               className="ml-4 accent-gradient hover:scale-105 transition-transform"
-              onClick={() => window.open('/resume.pdf', '_blank')}
+              onClick={() => window.open('/CV.pdf', '_blank')}
             >
               <Download className="w-4 h-4 mr-2" />
               Resume
